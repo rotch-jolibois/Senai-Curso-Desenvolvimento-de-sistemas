@@ -5,10 +5,10 @@ body {
 }
 body{
     background-image: url("../img/imagem.png");
-    background-size: cover;       /* Faz a imagem cobrir toda a tela */
-    background-position: center;  /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Não repete a imagem */
-    background-attachment: fixed; /* Mantém o fundo fixo ao rolar */
+    background-size: cover;       
+    background-position: center;  
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
 }
 .container {
     width: 400px;
